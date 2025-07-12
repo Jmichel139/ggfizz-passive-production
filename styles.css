@@ -160,3 +160,50 @@ body {
         opacity: 0;
     }
 }
+
+/* Main Content Container */
+.content-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 1rem;
+    min-height: 60vh;
+    position: relative;
+    z-index: 5;
+}
+
+/* Welcome Box */
+.welcome-box {
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 2rem 3rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.7);
+    max-width: 700px;
+    text-align: center;
+    color: #f5f5f5;
+    border: 1px solid var(--primary-color);
+}
+
+.welcome-box h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.welcome-box p {
+    font-size: 1.125rem;
+    color: var(--secondary-color);
+    line-height: 1.6;
+}
+
+/* Footer */
+.site-footer {
+    background-color: #111;
+    color: #ccc;
+    text-align: center;
+    padding: 2rem 1rem;
+    font-size: 0.875rem;
+    border-top: 1px solid #333;
+    z-index: 3;
+    position: relative;
+}
