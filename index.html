@@ -77,31 +77,73 @@
 
 
 
-
-
     <script>
         const creatureSelect = document.getElementById("creatureSelect");
         const resourceSelect = document.getElementById("resourceSelect");
         const resultsBox = document.getElementById("results");
 
-        let creatureData = [];
+        let creatureMap = new Map(); // { creatureName → [resourceNames] }
+        let resourceMap = new Map(); // { resourceName → [creatureNames] }
+
+        function extractNameFromBPPath(bpPath) {
+            const parts = bpPath.split('/');
+            const rawName = parts[parts.length - 1].split('.')[0];
+            // Remove common suffixes like _Character_BP or PrimalItem
+            return rawName
+                .replace(/(_Character_BP_C?|_Character)?$/i, '')
+                .replace(/^PrimalItem(Consumable|Resource|Ammo|Structure)?_?/i, '')
+                .replace(/_/g, ' ');
+        }
+
+        function addToMap(map, key, value) {
+            if (!map.has(key)) {
+                map.set(key, new Set());
+            }
+            map.get(key).add(value);
+        }
 
         fetch("https://pastebin.com/raw/UQcr96Vw")
             .then(res => res.json())
             .then(data => {
-                creatureData = data;
+                data.forEach(entry => {
+                    const creatureName = extractNameFromBPPath(entry.dinoType);
 
-                const creatures = [...new Set(data.map(item => item.creature))].sort();
-                const allResources = [...new Set(data.flatMap(item => item.resources))].sort();
+                    const allItems = [];
 
-                creatures.forEach(creature => {
+                    entry.produces.forEach(prod => {
+                        prod.items.forEach(item => {
+                            if (item.bpPath) {
+                                allItems.push(item.bpPath);
+                            }
+
+                            if (Array.isArray(item.alternateItems)) {
+                                item.alternateItems.forEach(alt => {
+                                    if (alt.bpPath) {
+                                        allItems.push(alt.bpPath);
+                                    }
+                                });
+                            }
+                        });
+                    });
+
+                    const resourceNames = allItems.map(extractNameFromBPPath);
+
+                    creatureMap.set(creatureName, resourceNames);
+                    resourceNames.forEach(resource => {
+                        addToMap(resourceMap, resource, creatureName);
+                    });
+                });
+
+                // Populate Creature Dropdown
+                Array.from(creatureMap.keys()).sort().forEach(creature => {
                     const opt = document.createElement("option");
                     opt.value = creature;
                     opt.textContent = creature;
                     creatureSelect.appendChild(opt);
                 });
 
-                allResources.forEach(resource => {
+                // Populate Resource Dropdown
+                Array.from(resourceMap.keys()).sort().forEach(resource => {
                     const opt = document.createElement("option");
                     opt.value = resource;
                     opt.textContent = resource;
@@ -111,13 +153,13 @@
 
         creatureSelect.addEventListener("change", () => {
             resourceSelect.value = "";
-            const selected = creatureSelect.value;
-            const creature = creatureData.find(c => c.creature === selected);
-            if (creature) {
+            const creature = creatureSelect.value;
+            if (creature && creatureMap.has(creature)) {
+                const resources = Array.from(creatureMap.get(creature)).sort();
                 resultsBox.innerHTML = `
-        <strong>${creature.creature}</strong> passively produces:
-        <ul>${creature.resources.map(r => `<li>${r}</li>`).join("")}</ul>
-      `;
+      <strong>${creature}</strong> passively produces:
+      <ul>${resources.map(r => `<li>${r}</li>`).join('')}</ul>
+    `;
             } else {
                 resultsBox.innerHTML = "";
             }
@@ -125,18 +167,19 @@
 
         resourceSelect.addEventListener("change", () => {
             creatureSelect.value = "";
-            const selected = resourceSelect.value;
-            const matches = creatureData.filter(c => c.resources.includes(selected));
-            if (matches.length > 0) {
+            const resource = resourceSelect.value;
+            if (resource && resourceMap.has(resource)) {
+                const creatures = Array.from(resourceMap.get(resource)).sort();
                 resultsBox.innerHTML = `
-        <strong>${selected}</strong> is produced by:
-        <ul>${matches.map(m => `<li>${m.creature}</li>`).join("")}</ul>
-      `;
+      <strong>${resource}</strong> is passively produced by:
+      <ul>${creatures.map(c => `<li>${c}</li>`).join('')}</ul>
+    `;
             } else {
-                resultsBox.innerHTML = "No matches found.";
+                resultsBox.innerHTML = "";
             }
         });
     </script>
+
 
 </body>
 
