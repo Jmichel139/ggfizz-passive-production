@@ -86,13 +86,14 @@
         let resourceMap = new Map(); // { resourceName → [creatureNames] }
 
         function extractNameFromBPPath(bpPath) {
+            if (!bpPath) return "Unknown";
             const parts = bpPath.split('/');
-            const rawName = parts[parts.length - 1].split('.')[0];
-            // Remove common suffixes like _Character_BP or PrimalItem
-            return rawName
+            const raw = parts[parts.length - 1].split('.')[0];
+            return raw
                 .replace(/(_Character_BP_C?|_Character)?$/i, '')
                 .replace(/^PrimalItem(Consumable|Resource|Ammo|Structure)?_?/i, '')
-                .replace(/_/g, ' ');
+                .replace(/_/g, ' ')
+                .trim();
         }
 
         function addToMap(map, key, value) {
@@ -102,32 +103,26 @@
             map.get(key).add(value);
         }
 
-        fetch("https://pastebin.com/raw/UQcr96Vw")
+        fetch("/data/creature-data.json")
             .then(res => res.json())
             .then(data => {
-                data.forEach(entry => {
+                const creatures = Array.isArray(data) ? data : data.production;
+                creatures.forEach(entry => {
                     const creatureName = extractNameFromBPPath(entry.dinoType);
-
                     const allItems = [];
 
                     entry.produces.forEach(prod => {
                         prod.items.forEach(item => {
-                            if (item.bpPath) {
-                                allItems.push(item.bpPath);
-                            }
-
+                            if (item.bpPath) allItems.push(item.bpPath);
                             if (Array.isArray(item.alternateItems)) {
                                 item.alternateItems.forEach(alt => {
-                                    if (alt.bpPath) {
-                                        allItems.push(alt.bpPath);
-                                    }
+                                    if (alt.bpPath) allItems.push(alt.bpPath);
                                 });
                             }
                         });
                     });
 
                     const resourceNames = allItems.map(extractNameFromBPPath);
-
                     creatureMap.set(creatureName, resourceNames);
                     resourceNames.forEach(resource => {
                         addToMap(resourceMap, resource, creatureName);
@@ -149,6 +144,10 @@
                     opt.textContent = resource;
                     resourceSelect.appendChild(opt);
                 });
+            })
+            .catch(err => {
+                console.error("Failed to load or parse JSON:", err);
+                resultsBox.innerHTML = `<p style="color: red;">Error loading data. Check console for details.</p>`;
             });
 
         creatureSelect.addEventListener("change", () => {
@@ -179,6 +178,7 @@
             }
         });
     </script>
+
 
 
 </body>
