@@ -48,6 +48,26 @@
                 our passive production system.</p>
             <p>Stay tuned for updates and more features coming soon!</p>
         </div>
+        <div class="json-display">
+            <div class="dropdown-container">
+                <label for="creatureSelect">Select Creature:</label>
+                <select id="creatureSelect">
+                    <option value="">-- Choose a Creature --</option>
+                </select>
+            </div>
+
+            <div class="dropdown-container">
+                <label for="resourceSelect">Select Resource:</label>
+                <select id="resourceSelect">
+                    <option value="">-- Choose a Resource --</option>
+                </select>
+            </div>
+
+            <div id="results" class="results-box">
+                <!-- Results will display here -->
+            </div>
+        </div>
+
     </main>
 
     <!-- Footer -->
@@ -56,6 +76,67 @@
     </footer>
 
 
+
+
+
+    <script>
+        const creatureSelect = document.getElementById("creatureSelect");
+        const resourceSelect = document.getElementById("resourceSelect");
+        const resultsBox = document.getElementById("results");
+
+        let creatureData = [];
+
+        fetch("https://pastebin.com/raw/UQcr96Vw")
+            .then(res => res.json())
+            .then(data => {
+                creatureData = data;
+
+                const creatures = [...new Set(data.map(item => item.creature))].sort();
+                const allResources = [...new Set(data.flatMap(item => item.resources))].sort();
+
+                creatures.forEach(creature => {
+                    const opt = document.createElement("option");
+                    opt.value = creature;
+                    opt.textContent = creature;
+                    creatureSelect.appendChild(opt);
+                });
+
+                allResources.forEach(resource => {
+                    const opt = document.createElement("option");
+                    opt.value = resource;
+                    opt.textContent = resource;
+                    resourceSelect.appendChild(opt);
+                });
+            });
+
+        creatureSelect.addEventListener("change", () => {
+            resourceSelect.value = "";
+            const selected = creatureSelect.value;
+            const creature = creatureData.find(c => c.creature === selected);
+            if (creature) {
+                resultsBox.innerHTML = `
+        <strong>${creature.creature}</strong> passively produces:
+        <ul>${creature.resources.map(r => `<li>${r}</li>`).join("")}</ul>
+      `;
+            } else {
+                resultsBox.innerHTML = "";
+            }
+        });
+
+        resourceSelect.addEventListener("change", () => {
+            creatureSelect.value = "";
+            const selected = resourceSelect.value;
+            const matches = creatureData.filter(c => c.resources.includes(selected));
+            if (matches.length > 0) {
+                resultsBox.innerHTML = `
+        <strong>${selected}</strong> is produced by:
+        <ul>${matches.map(m => `<li>${m.creature}</li>`).join("")}</ul>
+      `;
+            } else {
+                resultsBox.innerHTML = "No matches found.";
+            }
+        });
+    </script>
 
 </body>
 
