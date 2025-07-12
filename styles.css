@@ -207,3 +207,42 @@ body {
     z-index: 3;
     position: relative;
 }
+
+.json-display {
+    margin-top: 2rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    border-radius: 1rem;
+    max-width: 700px;
+    width: 100%;
+}
+
+.dropdown-container {
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.dropdown-container label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: var(--light-text);
+    font-weight: bold;
+}
+
+.dropdown-container select {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #666;
+    background-color: #222;
+    color: #fff;
+}
+
+.results-box {
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    color: var(--secondary-color);
+}
