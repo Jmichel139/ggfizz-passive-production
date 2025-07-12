@@ -103,7 +103,7 @@
             map.get(key).add(value);
         }
 
-        fetch("/data/creature-data.json")
+        fetch("data/creature-data.json")
             .then(res => res.json())
             .then(data => {
                 const creatures = Array.isArray(data) ? data : data.production;
