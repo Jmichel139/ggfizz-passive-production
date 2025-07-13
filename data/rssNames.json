@@ -1,1730 +1,1154 @@
 [
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_SubstrateAbsorbent.PrimalItemResource_SubstrateAbsorbent'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_SubstrateAbsorbent.PrimalItemResource_SubstrateAbsorbent'",
         "name": "Absorbent Substrate"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AmmoniteBlood.PrimalItemResource_AmmoniteBlood'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AmmoniteBlood.PrimalItemResource_AmmoniteBlood'",
         "name": "Ammonite Bile"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'",
         "name": "AnglerGel"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Beer.PrimalItemResource_Beer'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Beer.PrimalItemResource_Beer'",
         "name": "Beer Liquid"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'",
         "name": "Black Pearl"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_CakeSlice.PrimalItemResource_CakeSlice'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_CakeSlice.PrimalItemResource_CakeSlice'",
         "name": "Cake Slice"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
         "name": "Cementing Paste"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Charcoal.PrimalItemResource_Charcoal'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Charcoal.PrimalItemResource_Charcoal'",
         "name": "Charcoal"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'",
         "name": "Chitin"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinOrKeratin.PrimalItemResource_ChitinOrKeratin'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinOrKeratin.PrimalItemResource_ChitinOrKeratin'",
         "name": "Chitin or Keratin"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal'",
         "name": "Crystal"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ARKBone.PrimalItemResource_ARKBone'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ARKBone.PrimalItemResource_ARKBone'",
         "name": "Dinosaur Bone"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics'",
         "name": "Electronics"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'",
         "name": "Element"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementPowerNode.PrimalItemResource_ElementPowerNode'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementPowerNode.PrimalItemResource_ElementPowerNode'",
         "name": "Element from Power Node"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'",
         "name": "Element Shard"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers'",
         "name": "Fiber"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint'",
         "name": "Flint"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline'",
         "name": "Gasoline"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gunpowder.PrimalItemResource_Gunpowder'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gunpowder.PrimalItemResource_Gunpowder'",
         "name": "Gunpowder"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
         "name": "Hide"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hair.PrimalItemResource_Hair'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hair.PrimalItemResource_Hair'",
         "name": "Human Hair"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin'",
         "name": "Keratin"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_LeechBlood.PrimalItemResource_LeechBlood'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_LeechBlood.PrimalItemResource_LeechBlood'",
         "name": "Leech Blood"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResourceGeneric_Curing.PrimalItemResourceGeneric_Curing'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResourceGeneric_Curing.PrimalItemResourceGeneric_Curing'",
         "name": "Leech Blood or Horns"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'",
         "name": "Metal"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot'",
         "name": "Metal Ingot"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian'",
         "name": "Obsidian"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'",
         "name": "Oil"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'",
         "name": "Organic Polymer"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt'",
         "name": "Pelt"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_PeltOrHair.PrimalItemResource_PeltOrHair'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_PeltOrHair.PrimalItemResource_PeltOrHair'",
         "name": "Pelt, Hair, or Wool"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer'",
         "name": "Polymer"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'",
         "name": "Rare Flower"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'",
         "name": "Rare Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'",
         "name": "Sap"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'",
         "name": "Silica Pearls"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sparkpowder.PrimalItemResource_Sparkpowder'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sparkpowder.PrimalItemResource_Sparkpowder'",
         "name": "Sparkpowder"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'",
         "name": "Stone"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch'",
         "name": "Thatch"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
         "name": "Wood"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'",
         "name": "Wool"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Horn.PrimalItemResource_Horn'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Horn.PrimalItemResource_Horn'",
         "name": "Woolly Rhino Horn"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'",
         "name": "Achatina Paste"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'",
         "name": "Oil (Tusoteuthis)"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Rhyniognatha/Resin/PrimalItemResource_Resin.PrimalItemResource_Resin'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Rhyniognatha/Resin/PrimalItemResource_Resin.PrimalItemResource_Resin'",
         "name": "Resin"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Amarberry.PrimalItemConsumable_Berry_Amarberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Amarberry.PrimalItemConsumable_Berry_Amarberry'",
         "name": "Amarberry"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Azulberry.PrimalItemConsumable_Berry_Azulberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Azulberry.PrimalItemConsumable_Berry_Azulberry'",
         "name": "Azulberry"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XSmall.PrimalItemConsumable_Kibble_Base_XSmall'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XSmall.PrimalItemConsumable_Kibble_Base_XSmall'",
         "name": "Basic Kibble"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_BattleTartare.PrimalItemConsumable_Soup_BattleTartare'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_BattleTartare.PrimalItemConsumable_Soup_BattleTartare'",
         "name": "Battle Tartare"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BeerJar.PrimalItemConsumable_BeerJar'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BeerJar.PrimalItemConsumable_BeerJar'",
         "name": "Beer Jar"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BeerJarAlt.PrimalItemConsumable_BeerJarAlt'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BeerJarAlt.PrimalItemConsumable_BeerJarAlt'",
         "name": "Beer Jar (alt)"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'",
         "name": "Bio Toxin"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'",
         "name": "Blood Pack"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_TheHorn.PrimalItemConsumable_TheHorn'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_TheHorn.PrimalItemConsumable_TheHorn'",
         "name": "Broth of Enlightenment"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BugRepellant.PrimalItemConsumable_BugRepellant'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BugRepellant.PrimalItemConsumable_BugRepellant'",
         "name": "Bug Repellant"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_CalienSoup.PrimalItemConsumable_Soup_CalienSoup'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_CalienSoup.PrimalItemConsumable_Soup_CalienSoup'",
         "name": "Calien Soup"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Citronal.PrimalItemConsumable_Veggie_Citronal'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Citronal.PrimalItemConsumable_Veggie_Citronal'",
         "name": "Citronal"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish'",
         "name": "Cooked Fish Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedLambChop.PrimalItemConsumable_CookedLambChop'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedLambChop.PrimalItemConsumable_CookedLambChop'",
         "name": "Cooked Lamb Chop"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat'",
         "name": "Cooked Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Jerky.PrimalItemConsumable_CookedMeat_Jerky'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Jerky.PrimalItemConsumable_CookedMeat_Jerky'",
         "name": "Cooked Meat Jerky"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish'",
         "name": "Cooked Prime Fish Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat.PrimalItemConsumable_CookedPrimeMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat.PrimalItemConsumable_CookedPrimeMeat'",
         "name": "Cooked Prime Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_EnduroStew.PrimalItemConsumable_Soup_EnduroStew'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_EnduroStew.PrimalItemConsumable_Soup_EnduroStew'",
         "name": "Enduro Stew"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_StaminaSoup.PrimalItemConsumable_StaminaSoup'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_StaminaSoup.PrimalItemConsumable_StaminaSoup'",
         "name": "Energy Brew"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XLarge.PrimalItemConsumable_Kibble_Base_XLarge'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XLarge.PrimalItemConsumable_Kibble_Base_XLarge'",
         "name": "Exceptional Kibble"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Special.PrimalItemConsumable_Kibble_Base_Special'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Special.PrimalItemConsumable_Kibble_Base_Special'",
         "name": "Extraordinary Kibble"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_FocalChili.PrimalItemConsumable_Soup_FocalChili'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_FocalChili.PrimalItemConsumable_Soup_FocalChili'",
         "name": "Focal Chili"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_FriaCurry.PrimalItemConsumable_Soup_FriaCurry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_FriaCurry.PrimalItemConsumable_Soup_FriaCurry'",
         "name": "Fria Curry"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'",
         "name": "Giant Bee Honey"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Hesperonis_Golden.PrimalItemConsumable_Egg_Hesperonis_Golden'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Hesperonis_Golden.PrimalItemConsumable_Egg_Hesperonis_Golden'",
         "name": "Golden Hesperornis Egg"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_LazarusChowder.PrimalItemConsumable_Soup_LazarusChowder'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_LazarusChowder.PrimalItemConsumable_Soup_LazarusChowder'",
         "name": "Lazarus Chowder"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Longrass.PrimalItemConsumable_Veggie_Longrass'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Longrass.PrimalItemConsumable_Veggie_Longrass'",
         "name": "Longrass"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup'",
         "name": "Medical Brew"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Mejoberry.PrimalItemConsumable_Berry_Mejoberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Mejoberry.PrimalItemConsumable_Berry_Mejoberry'",
         "name": "Mejoberry"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Narcoberry.PrimalItemConsumable_Berry_Narcoberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Narcoberry.PrimalItemConsumable_Berry_Narcoberry'",
         "name": "Narcoberry"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'",
         "name": "Narcotic"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Jerky.PrimalItemConsumable_CookedPrimeMeat_Jerky'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Jerky.PrimalItemConsumable_CookedPrimeMeat_Jerky'",
         "name": "Prime Meat Jerky"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish'",
         "name": "Raw Fish Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
         "name": "Raw Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
         "name": "Raw Mutton"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish'",
         "name": "Raw Prime Fish Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat'",
         "name": "Raw Prime Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Medium.PrimalItemConsumable_Kibble_Base_Medium'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Medium.PrimalItemConsumable_Kibble_Base_Medium'",
         "name": "Regular Kibble"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Rockarrot.PrimalItemConsumable_Veggie_Rockarrot'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Rockarrot.PrimalItemConsumable_Veggie_Rockarrot'",
         "name": "Rockarrot"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Savoroot.PrimalItemConsumable_Veggie_Savoroot'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Savoroot.PrimalItemConsumable_Veggie_Savoroot'",
         "name": "Savoroot"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_ShadowSteak.PrimalItemConsumable_Soup_ShadowSteak'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_ShadowSteak.PrimalItemConsumable_Soup_ShadowSteak'",
         "name": "Shadow Steak Saute"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Small.PrimalItemConsumable_Kibble_Base_Small'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Small.PrimalItemConsumable_Kibble_Base_Small'",
         "name": "Simple Kibble"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SpoiledMeat.PrimalItemConsumable_SpoiledMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SpoiledMeat.PrimalItemConsumable_SpoiledMeat'",
         "name": "Spoiled Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Stimberry.PrimalItemConsumable_Berry_Stimberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Stimberry.PrimalItemConsumable_Berry_Stimberry'",
         "name": "Stimberry"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Stimulant.PrimalItemConsumable_Stimulant'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Stimulant.PrimalItemConsumable_Stimulant'",
         "name": "Stimulant"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SuperTestMeat.PrimalItemConsumable_SuperTestMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SuperTestMeat.PrimalItemConsumable_SuperTestMeat'",
         "name": "Super Test Meat"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_kibble_base_large.PrimalItemConsumable_kibble_base_large'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_kibble_base_large.PrimalItemConsumable_kibble_base_large'",
         "name": "Superior Kibble"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'",
         "name": "Sweet Vegetable Cake"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Tintoberry.PrimalItemConsumable_Berry_Tintoberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Tintoberry.PrimalItemConsumable_Berry_Tintoberry'",
         "name": "Tintoberry"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry.PrimalItemConsumable_Seed_Amarberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry.PrimalItemConsumable_Seed_Amarberry'",
         "name": "Amarberry Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry.PrimalItemConsumable_Seed_Azulberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry.PrimalItemConsumable_Seed_Azulberry'",
         "name": "Azulberry Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Test.PrimalItemConsumable_Seed_Test'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Test.PrimalItemConsumable_Seed_Test'",
         "name": "Consumable Logic Placeholder"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Citronal.PrimalItemConsumable_Seed_Citronal'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Citronal.PrimalItemConsumable_Seed_Citronal'",
         "name": "Citronal Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Longrass.PrimalItemConsumable_Seed_Longrass'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Longrass.PrimalItemConsumable_Seed_Longrass'",
         "name": "Longrass Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry.PrimalItemConsumable_Seed_Mejoberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry.PrimalItemConsumable_Seed_Mejoberry'",
         "name": "Mejoberry Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Narcoberry.PrimalItemConsumable_Seed_Narcoberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Narcoberry.PrimalItemConsumable_Seed_Narcoberry'",
         "name": "Narcoberry Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_DefensePlant.PrimalItemConsumable_Seed_DefensePlant'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_DefensePlant.PrimalItemConsumable_Seed_DefensePlant'",
         "name": "Plant Species X Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Rockarrot.PrimalItemConsumable_Seed_Rockarrot'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Rockarrot.PrimalItemConsumable_Seed_Rockarrot'",
         "name": "Rockarrot Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Savoroot.PrimalItemConsumable_Seed_Savoroot'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Savoroot.PrimalItemConsumable_Seed_Savoroot'",
         "name": "Savoroot Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry.PrimalItemConsumable_Seed_Stimberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry.PrimalItemConsumable_Seed_Stimberry'",
         "name": "Stimberry Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Tintoberry.PrimalItemConsumable_Seed_Tintoberry'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Tintoberry.PrimalItemConsumable_Seed_Tintoberry'",
         "name": "Tintoberry Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_CureLow.PrimalItemConsumable_CureLow'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_CureLow.PrimalItemConsumable_CureLow'",
         "name": "Lesser Antidote"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'",
         "name": "Mindwipe Tonic"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableSoap.PrimalItemConsumableSoap'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableSoap.PrimalItemConsumableSoap'",
         "name": "Soap"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay'",
         "name": "Clay"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_PreservingSalt.PrimalItemResource_PreservingSalt'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_PreservingSalt.PrimalItemResource_PreservingSalt'",
         "name": "Preserving Salt"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Propellant.PrimalItemResource_Propellant'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Propellant.PrimalItemResource_Propellant'",
         "name": "Propellant"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt'",
         "name": "Raw Salt"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand'",
         "name": "Sand"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk'",
         "name": "Silk"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sulfur.PrimalItemResource_Sulfur'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sulfur.PrimalItemResource_Sulfur'",
         "name": "Sulfur"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/Dinos/Deathworm/PrimalItemResource_KeratinSpike.PrimalItemResource_KeratinSpike'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/Dinos/Deathworm/PrimalItemResource_KeratinSpike.PrimalItemResource_KeratinSpike'",
         "name": "Deathworm Horn"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CactusBuffSoup.PrimalItemConsumable_CactusBuffSoup'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CactusBuffSoup.PrimalItemConsumable_CactusBuffSoup'",
         "name": "Cactus Broth"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/WeaponPlantSpeciesY/PrimalItemConsumable_Seed_PlantSpeciesY.PrimalItemConsumable_Seed_PlantSpeciesY'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/WeaponPlantSpeciesY/PrimalItemConsumable_Seed_PlantSpeciesY.PrimalItemConsumable_Seed_PlantSpeciesY'",
         "name": "Plant Species Y Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Consumables/PrimalItemConsumable_CactusSap.PrimalItemConsumable_CactusSap'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Consumables/PrimalItemConsumable_CactusSap.PrimalItemConsumable_CactusSap'",
         "name": "Sap, Cactus"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk'",
         "name": "Milk, Wyvern"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_BioLum.PrimalItemResource_Gem_BioLum'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_BioLum.PrimalItemResource_Gem_BioLum'",
         "name": "Blue Gem"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/WeaponGlowStickCharge/PrimalItem_ChargeBattery.PrimalItem_ChargeBattery'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/WeaponGlowStickCharge/PrimalItem_ChargeBattery.PrimalItem_ChargeBattery'",
         "name": "Charge Battery"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gas.PrimalItemResource_Gas'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gas.PrimalItemResource_Gas'",
         "name": "Congealed Gas Ball"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ElementOre.PrimalItemResource_ElementOre'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ElementOre.PrimalItemResource_ElementOre'",
         "name": "Element Ore"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_FungalWood.PrimalItemResource_FungalWood'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_FungalWood.PrimalItemResource_FungalWood'",
         "name": "Fungal Wood"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_Fertile.PrimalItemResource_Gem_Fertile'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_Fertile.PrimalItemResource_Gem_Fertile'",
         "name": "Green Gem"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_Element.PrimalItemResource_Gem_Element'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_Element.PrimalItemResource_Gem_Element'",
         "name": "Red Gem"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_XenomorphPheromoneGland.PrimalItemResource_XenomorphPheromoneGland'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_XenomorphPheromoneGland.PrimalItemResource_XenomorphPheromoneGland'",
         "name": "Reaper Pheromone Gland"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Mushroom_Aquatic.PrimalItemConsumable_Mushroom_Aquatic'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Mushroom_Aquatic.PrimalItemConsumable_Mushroom_Aquatic'",
         "name": "Aquatic Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Mushroom_Ascerbic.PrimalItemConsumable_Mushroom_Ascerbic'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Mushroom_Ascerbic.PrimalItemConsumable_Mushroom_Ascerbic'",
         "name": "Ascerbic Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Mushroom_Auric.PrimalItemConsumable_Mushroom_Auric'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Mushroom_Auric.PrimalItemConsumable_Mushroom_Auric'",
         "name": "Auric Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_MushroomSoup.PrimalItemConsumable_Soup_MushroomSoup'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_MushroomSoup.PrimalItemConsumable_Soup_MushroomSoup'",
         "name": "Mushroom Brew"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/WeaponPlantSpeciesZ/PrimalItemConsumable_Seed_PlantSpeciesZ.PrimalItemConsumable_Seed_PlantSpeciesZ'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/WeaponPlantSpeciesZ/PrimalItemConsumable_Seed_PlantSpeciesZ.PrimalItemConsumable_Seed_PlantSpeciesZ'",
         "name": "Plant Species Z Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemResource_CommonMushroom.PrimalItemResource_CommonMushroom'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Consumables/PrimalItemResource_CommonMushroom.PrimalItemResource_CommonMushroom'",
         "name": "Aggeravic Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemConsumable_NamelessVenom.PrimalItemConsumable_NamelessVenom'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemConsumable_NamelessVenom.PrimalItemConsumable_NamelessVenom'",
         "name": "Nameless Venom"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_BlueSap.PrimalItemResource_BlueSap_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_BlueSap.PrimalItemResource_BlueSap_C'",
         "name": "Blue Crystalized Sap"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_CondensedGas.PrimalItemResource_CondensedGas_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_CondensedGas.PrimalItemResource_CondensedGas_C'",
         "name": "Condensed Gas"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_corruptedpolymer.PrimalItemResource_corruptedpolymer'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_corruptedpolymer.PrimalItemResource_corruptedpolymer'",
         "name": "Corrupted Nodule"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_CorruptedWood.PrimalItemResource_CorruptedWood'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_CorruptedWood.PrimalItemResource_CorruptedWood'",
         "name": "Corrupted Wood"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDustFromShards.PrimalItemResource_ElementDustFromShards'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDustFromShards.PrimalItemResource_ElementDustFromShards'",
         "name": "Crafted Element Dust"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/PrimalItem_TaxidermyDermis.PrimalItem_TaxidermyDermis_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/PrimalItem_TaxidermyDermis.PrimalItem_TaxidermyDermis_C'",
         "name": "Dermis"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'",
         "name": "Element Dust"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDustFromElement.PrimalItemResource_ElementDustFromElement_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDustFromElement.PrimalItemResource_ElementDustFromElement_C'",
         "name": "Element Dust from Element"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_FracturedGem.PrimalItemResource_FracturedGem'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_FracturedGem.PrimalItemResource_FracturedGem'",
         "name": "Fragmented Green Gem"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_RedSap.PrimalItemResource_RedSap'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_RedSap.PrimalItemResource_RedSap'",
         "name": "Red Crystalized Sap"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal_C'",
         "name": "Scrap Metal"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetalIngot.PrimalItemResource_ScrapMetalIngot'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetalIngot.PrimalItemResource_ScrapMetalIngot'",
         "name": "Scrap Metal Ingot"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_Silicate.PrimalItemResource_Silicate'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_Silicate.PrimalItemResource_Silicate'",
         "name": "Silicate"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementRefined.PrimalItemResource_ElementRefined_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementRefined.PrimalItemResource_ElementRefined_C'",
         "name": "Unstable Element"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ShardRefined.PrimalItemResource_ShardRefined_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ShardRefined.PrimalItemResource_ShardRefined_C'",
         "name": "Unstable Element Shard"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/Dinos/Gacha/PrimalItemConsumable_GachaPod.PrimalItemConsumable_GachaPod_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/Dinos/Gacha/PrimalItemConsumable_GachaPod.PrimalItemConsumable_GachaPod_C'",
         "name": "Gacha Crystal"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_Ambergris.PrimalItemResource_Ambergris'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_Ambergris.PrimalItemResource_Ambergris'",
         "name": "Ambergris"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_PrimalItemResource_GoldenNugget_C.PrimalItemResource_PrimalItemResource_GoldenNugget_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_PrimalItemResource_GoldenNugget_C.PrimalItemResource_PrimalItemResource_GoldenNugget_C'",
         "name": "Golden Nugget"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_Pollen.PrimalItemResource_Pollen'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_Pollen.PrimalItemResource_Pollen'",
         "name": "High Quality Pollen"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_TurtleShell.PrimalItemResource_TurtleShell'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_TurtleShell.PrimalItemResource_TurtleShell'",
         "name": "Shell Fragment"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis2/CoreBlueprints/Resources/PrimalItemResource_Mutagel.PrimalItemResource_Mutagel'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis2/CoreBlueprints/Resources/PrimalItemResource_Mutagel.PrimalItemResource_Mutagel'",
         "name": "Mutagel"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis2/CoreBlueprints/Resources/PrimalItemResource_Mutagen.PrimalItemResource_Mutagen'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis2/CoreBlueprints/Resources/PrimalItemResource_Mutagen.PrimalItemResource_Mutagen'",
         "name": "Mutagen"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_RawMeat.PrimalItemConsumable_Seed_PlantSpeciesR_RawMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_RawMeat.PrimalItemConsumable_Seed_PlantSpeciesR_RawMeat'",
         "name": "Plant Species R-1 Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_RawFish.PrimalItemConsumable_Seed_PlantSpeciesR_RawFish'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_RawFish.PrimalItemConsumable_Seed_PlantSpeciesR_RawFish'",
         "name": "Plant Species R-2 Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_SpoiledMeat.PrimalItemConsumable_Seed_PlantSpeciesR_SpoiledMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_SpoiledMeat.PrimalItemConsumable_Seed_PlantSpeciesR_SpoiledMeat'",
         "name": "Plant Species R-3 Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_PrimeMeat.PrimalItemConsumable_Seed_PlantSpeciesR_PrimeMeat'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_PrimeMeat.PrimalItemConsumable_Seed_PlantSpeciesR_PrimeMeat'",
         "name": "Plant Species R-4 Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_PrimeFish.PrimalItemConsumable_Seed_PlantSpeciesR_PrimeFish'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR_PrimeFish.PrimalItemConsumable_Seed_PlantSpeciesR_PrimeFish'",
         "name": "Plant Species R-5 Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR.PrimalItemConsumable_Seed_PlantSpeciesR'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Genesis2/Structures/PlantSpeciesR/PrimalItemConsumable_Seed_PlantSpeciesR.PrimalItemConsumable_Seed_PlantSpeciesR'",
         "name": "Plant Species R Seed"
     },
     {
-        "bpPath": "Blueprint'/Game/ASA/Dinos/Archelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae_ASA.PrimalItemConsumable_Veggie_TurtleAlgae_ASA'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ASA/Dinos/Archelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae_ASA.PrimalItemConsumable_Veggie_TurtleAlgae_ASA'",
         "name": "Archelon Algae"
     },
     {
-        "bpPath": "Blueprint'/Game/ASA/Dinos/Archelon/Dinos/Consumables/PrimalItemConsumableEatable_Sushi_ASA.PrimalItemConsumableEatable_Sushi_ASA'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ASA/Dinos/Archelon/Dinos/Consumables/PrimalItemConsumableEatable_Sushi_ASA.PrimalItemConsumableEatable_Sushi_ASA'",
         "name": "Algae Sushi"
     },
     {
-        "bpPath": "Blueprint'/Game/ASA/Dinos/Cat/Furball/PrimalItemResource_Furball.PrimalItemResource_Furball'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ASA/Dinos/Cat/Furball/PrimalItemResource_Furball.PrimalItemResource_Furball'",
         "name": "Furball"
     },
     {
-        "bpPath": "Blueprint'/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk'",
         "name": "Milk, Bison"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Allo.PrimalItemResource_ApexDrop_Allo'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Allo.PrimalItemResource_ApexDrop_Allo'",
         "name": "Allosaurus Brain"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Argentavis.PrimalItemResource_ApexDrop_Argentavis'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Argentavis.PrimalItemResource_ApexDrop_Argentavis'",
         "name": "Argentavis Talon"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Basilo.PrimalItemResource_ApexDrop_Basilo'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Basilo.PrimalItemResource_ApexDrop_Basilo'",
         "name": "Basilosaurus Blubber"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Giga.PrimalItemResource_ApexDrop_Giga'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Giga.PrimalItemResource_ApexDrop_Giga'",
         "name": "Giganotosaurus Heart"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalania.PrimalItemResource_ApexDrop_Megalania'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalania.PrimalItemResource_ApexDrop_Megalania'",
         "name": "Megalania Toxin"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalodon.PrimalItemResource_ApexDrop_Megalodon'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalodon.PrimalItemResource_ApexDrop_Megalodon'",
         "name": "Megalodon Tooth"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sarco.PrimalItemResource_ApexDrop_Sarco'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sarco.PrimalItemResource_ApexDrop_Sarco'",
         "name": "Sarcosuchus Skin"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sauro.PrimalItemResource_ApexDrop_Sauro'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sauro.PrimalItemResource_ApexDrop_Sauro'",
         "name": "Sauropod Vertebra"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Spino.PrimalItemResource_ApexDrop_Spino'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Spino.PrimalItemResource_ApexDrop_Spino'",
         "name": "Spinosaurus Sail"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Theriz.PrimalItemResource_ApexDrop_Theriz'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Theriz.PrimalItemResource_ApexDrop_Theriz'",
         "name": "Therizino Claws"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Thylaco.PrimalItemResource_ApexDrop_Thylaco'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Thylaco.PrimalItemResource_ApexDrop_Thylaco'",
         "name": "Thylacoleo Hook-Claw"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Boa.PrimalItemResource_ApexDrop_Boa'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Boa.PrimalItemResource_ApexDrop_Boa'",
         "name": "Titanoboa Venom"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Tuso.PrimalItemResource_ApexDrop_Tuso'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Tuso.PrimalItemResource_ApexDrop_Tuso'",
         "name": "Tusoteuthis Tentacle"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Rex.PrimalItemResource_ApexDrop_Rex'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Rex.PrimalItemResource_ApexDrop_Rex'",
         "name": "Tyrannosaurus Arm"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Yuty.PrimalItemResource_ApexDrop_Yuty'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Yuty.PrimalItemResource_ApexDrop_Yuty'",
         "name": "Yutyrannus Lungs"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_FireWyvern.PrimalItemResource_ApexDrop_FireWyvern'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_FireWyvern.PrimalItemResource_ApexDrop_FireWyvern'",
         "name": "Fire Talon"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_LightningWyvern.PrimalItemResource_ApexDrop_LightningWyvern'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_LightningWyvern.PrimalItemResource_ApexDrop_LightningWyvern'",
         "name": "Lightning Talon"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_PoisonWyvern.PrimalItemResource_ApexDrop_PoisonWyvern'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_PoisonWyvern.PrimalItemResource_ApexDrop_PoisonWyvern'",
         "name": "Poison Talon"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Basilisk.PrimalItemResource_ApexDrop_Basilisk'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Basilisk.PrimalItemResource_ApexDrop_Basilisk'",
         "name": "Basilisk Scale"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_RockDrake.PrimalItemResource_ApexDrop_RockDrake'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_RockDrake.PrimalItemResource_ApexDrop_RockDrake'",
         "name": "Rock Drake Feather"
     },
     {
-        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_RockDrake.PrimalItemResource_ApexDrop_RockDrake'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_RockDrake.PrimalItemResource_ApexDrop_RockDrake'",
         "name": "Corrupt Heart"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_GasBag.PrimalItemResource_ApexDrop_GasBag'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_GasBag.PrimalItemResource_ApexDrop_GasBag'",
         "name": "Gasbags bladder"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'",
         "name": "Fertilizer"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableMiracleGro.PrimalItemConsumableMiracleGro'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableMiracleGro.PrimalItemConsumableMiracleGro'",
         "name": "Re-Fertilizer"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow'",
         "name": "Metal Arrow"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_BallistaArrow.PrimalItemAmmo_BallistaArrow'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_BallistaArrow.PrimalItemAmmo_BallistaArrow'",
         "name": "Spear Bolt"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowStone.PrimalItemAmmo_ArrowStone'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowStone.PrimalItemAmmo_ArrowStone'",
         "name": "Stone Arrow"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowTranq.PrimalItemAmmo_ArrowTranq'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowTranq.PrimalItemAmmo_ArrowTranq'",
         "name": "Tranq Arrow"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_12.PrimalItemArtifact_12'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_12.PrimalItemArtifact_12'",
         "name": "Artifact Of The Brute"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_05.PrimalItemArtifact_05'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_05.PrimalItemArtifact_05'",
         "name": "Artifact Of The Clever"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_11.PrimalItemArtifact_11'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_11.PrimalItemArtifact_11'",
         "name": "Artifact Of The Cunning"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_07.PrimalItemArtifact_07'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_07.PrimalItemArtifact_07'",
         "name": "Artifact Of The Devourer"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_01.PrimalItemArtifact_01'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_01.PrimalItemArtifact_01'",
         "name": "Artifact Of The Hunter"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_08.PrimalItemArtifact_08'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_08.PrimalItemArtifact_08'",
         "name": "Artifact Of The Immune"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_03.PrimalItemArtifact_03'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_03.PrimalItemArtifact_03'",
         "name": "Artifact Of The Massive"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02'",
         "name": "Artifact Of The Pack"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_06.PrimalItemArtifact_06'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_06.PrimalItemArtifact_06'",
         "name": "Artifact Of The Skylord"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_09.PrimalItemArtifact_09'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_09.PrimalItemArtifact_09'",
         "name": "Artifact Of The Strong"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactSE_02.PrimalItemArtifactSE_02'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactSE_02.PrimalItemArtifactSE_02'",
         "name": "Artifact of the Crag"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactSE_03.PrimalItemArtifactSE_03'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactSE_03.PrimalItemArtifactSE_03'",
         "name": "Artifact of the Destroyer"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactSE_01.PrimalItemArtifactSE_01'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactSE_01.PrimalItemArtifactSE_01'",
         "name": "Artifact of the Gatekeeper"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB.PrimalItemArtifactAB'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB.PrimalItemArtifactAB'",
         "name": "Artifact of the Depths"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB_4.PrimalItemArtifactAB_4'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB_4.PrimalItemArtifactAB_4'",
         "name": "Artifact of the Lost"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB_2.PrimalItemArtifactAB_2'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB_2.PrimalItemArtifactAB_2'",
         "name": "Artifact of the Shadows"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB_3.PrimalItemArtifactAB_3'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB_3.PrimalItemArtifactAB_3'",
         "name": "Artifact of the Stalker"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_Extinction_DesertKaiju.PrimalItemArtifact_Extinction_DesertKaiju'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_Extinction_DesertKaiju.PrimalItemArtifact_Extinction_DesertKaiju'",
         "name": "Artifact of Chaos"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_Extinction_ForestKaiju.PrimalItemArtifact_Extinction_ForestKaiju'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_Extinction_ForestKaiju.PrimalItemArtifact_Extinction_ForestKaiju'",
         "name": "Artifact of Growth"
     },
     {
-        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_Extinction_IceKaiju.PrimalItemArtifact_Extinction_IceKaiju'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_Extinction_IceKaiju.PrimalItemArtifact_Extinction_IceKaiju'",
         "name": "Artifact of the Void"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_04.PrimalItemArtifact_04'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_04.PrimalItemArtifact_04'",
         "name": "Artifact of the Devious"
     },
     {
-        "bpPath": "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_SuspiciouslyGreenGunpowder.PrimalItemResource_SuspiciouslyGreenGunpowder'"
-    },
-    {
+        "bpPath": "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_SuspiciouslyGreenGunpowder.PrimalItemResource_SuspiciouslyGreenGunpowder'",
         "name": "Pyrodex Powder"
     },
     {
-        "bpPath": "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant'"
-    },
-    {
+        "bpPath": "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant'",
         "name": "Exothermic Fluid"
     },
     {
-        "bpPath": "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_OddlyYellowedGasball.PrimalItemResource_OddlyYellowedGasball'"
-    },
-    {
+        "bpPath": "Blueprint'/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_OddlyYellowedGasball.PrimalItemResource_OddlyYellowedGasball'",
         "name": "Acidic Enzyme"
     },
     {
-        "bpPath": "Blueprint'/Majungasaurus/Majunga/Saliva/PrimalItemConsumable_Saliva.PrimalItemConsumable_Saliva'"
-    },
-    {
+        "bpPath": "Blueprint'/Majungasaurus/Majunga/Saliva/PrimalItemConsumable_Saliva.PrimalItemConsumable_Saliva'",
         "name": "Parasitic Saliva"
     },
     {
-        "bpPath": "Blueprint'/ImprovedPhoenix/Items/PrimalItemFakeEgg_Ashes_Wild.PrimalItemFakeEgg_Ashes_Wild'"
-    },
-    {
+        "bpPath": "Blueprint'/ImprovedPhoenix/Items/PrimalItemFakeEgg_Ashes_Wild.PrimalItemFakeEgg_Ashes_Wild'",
         "name": "Phoenix Ashes"
     },
     {
-        "bpPath": "Blueprint'/AnomalyAscendedGalvarex/Items/Resources/GalvaGel/PrimalItemResource_GalvaGel.PrimalItemResource_GalvaGel'"
-    },
-    {
+        "bpPath": "Blueprint'/AnomalyAscendedGalvarex/Items/Resources/GalvaGel/PrimalItemResource_GalvaGel.PrimalItemResource_GalvaGel'",
         "name": "Electrogel"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_BlueMushroom.PrimalItemResource_BlueMushroom_C"
-    },
-    {
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_BlueMushroom.PrimalItemResource_BlueMushroom_C",
         "name": "Blue Rare Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_GreenMushroom.PrimalItemResource_GreenMushroom_C"
-    },
-    {
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_GreenMushroom.PrimalItemResource_GreenMushroom_C",
         "name": "Green Rare Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_PurpleMushroom.PrimalItemResource_PurpleMushroom_C"
-    },
-    {
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_PurpleMushroom.PrimalItemResource_PurpleMushroom_C",
         "name": "Purple Rare Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_RedMushroom.PrimalItemResource_RedMushroom_C"
-    },
-    {
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_RedMushroom.PrimalItemResource_RedMushroom_C",
         "name": "Red Rare Mushroom"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Primal/PrimalItemConable_AttackMushroom.PrimalItemConable_AttackMushroom_C"
-    },
-    {
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Primal/PrimalItemConable_AttackMushroom.PrimalItemConable_AttackMushroom_C",
         "name": "Attack Mushroom Stew"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Primal/PrimalItemConable_DefenseMushroom.PrimalItemConable_DefenseMushroom_C"
-    },
-    {
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Primal/PrimalItemConable_DefenseMushroom.PrimalItemConable_DefenseMushroom_C",
         "name": "Defense Mushroom Stew"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Primal/PrimalItemConable_HealMushroom.PrimalItemConable_HealMushroom_C"
-    },
-    {
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Primal/PrimalItemConable_HealMushroom.PrimalItemConable_HealMushroom_C",
         "name": "Heal Mushroom Stew"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Primal/PrimalItemConable_SpeedMushroom.PrimalItemConable_SpeedMushroom_C"
-    },
-    {
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Primal/PrimalItemConable_SpeedMushroom.PrimalItemConable_SpeedMushroom_C",
         "name": "Speed Mushroom Stew"
     },
     {
-        "bpPath": "Blueprint'/PA_Plus_Pack_01/Dinos/Cryptoclidus/Items/PrimalItemResource_CryptoGel.PrimalItemResource_CryptoGel_C'"
-    },
-    {
+        "bpPath": "Blueprint'/PA_Plus_Pack_01/Dinos/Cryptoclidus/Items/PrimalItemResource_CryptoGel.PrimalItemResource_CryptoGel_C'",
         "name": "Cryptoclidus Gel"
     },
     {
-        "bpPath": "Blueprint'/PA_Plus_Pack_01/Dinos/ObeliskSquid/PrimalItemConsumable_Calamari_Raw.PrimalItemConsumable_Calamari_Raw_C'"
-    },
-    {
+        "bpPath": "Blueprint'/PA_Plus_Pack_01/Dinos/ObeliskSquid/PrimalItemConsumable_Calamari_Raw.PrimalItemConsumable_Calamari_Raw_C'",
         "name": "Raw Calamari"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_CoralTSW.PrimalItemResource_CoralTSW_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_CoralTSW.PrimalItemResource_CoralTSW_C'",
         "name": "Coral"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_Limestone.PrimalItemResource_Limestone_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_Limestone.PrimalItemResource_Limestone_C'",
         "name": "Limestone"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_SeaGrass.PrimalItemResource_SeaGrass_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_SeaGrass.PrimalItemResource_SeaGrass_C'",
         "name": "Seagrass"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_SeaScales.PrimalItemResource_SeaScales_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_SeaScales.PrimalItemResource_SeaScales_C'",
         "name": "Sea Scale"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_Thermite.PrimalItemResource_Thermite_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_Thermite.PrimalItemResource_Thermite_C'",
         "name": "Thermite"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Veggie_Angelberry.PrimalItemConsumable_Veggie_Angelberry_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Veggie_Angelberry.PrimalItemConsumable_Veggie_Angelberry_C'",
         "name": "Angelberry"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Veggie_Crabnut.PrimalItemConsumable_Veggie_Crabnut_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Veggie_Crabnut.PrimalItemConsumable_Veggie_Crabnut_C'",
         "name": "Crabnut"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Veggie_Curlbean.PrimalItemConsumable_Veggie_Curlbean_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Veggie_Curlbean.PrimalItemConsumable_Veggie_Curlbean_C'",
         "name": "Curlbean"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Veggie_Spinefruit.PrimalItemConsumable_Veggie_Spinefruit_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Veggie_Spinefruit.PrimalItemConsumable_Veggie_Spinefruit_C'",
         "name": "Spinefruit"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_UrchinRoe.PrimalItemConsumable_UrchinRoe_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_UrchinRoe.PrimalItemConsumable_UrchinRoe_C'",
         "name": "Urchin Roe"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Kelp.PrimalItemConsumable_Kelp_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Kelp.PrimalItemConsumable_Kelp_C'",
         "name": "Kelp"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_SharkRepellantTSW.PrimalItemConsumable_SharkRepellantTSW_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_SharkRepellantTSW.PrimalItemConsumable_SharkRepellantTSW_C'",
         "name": "Shark Repellant"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_TropicalSmoothie.PrimalItemConsumable_TropicalSmoothie_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_TropicalSmoothie.PrimalItemConsumable_TropicalSmoothie_C'",
         "name": "Tropical Smoothie"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_UniGunkan.PrimalItemConsumable_UniGunkan_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_UniGunkan.PrimalItemConsumable_UniGunkan_C'",
         "name": "Uni Gunkan"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_VeganSpaghetti.PrimalItemConsumable_VeganSpaghetti_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_VeganSpaghetti.PrimalItemConsumable_VeganSpaghetti_C'",
         "name": "Vegan Spaghetti"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_CuredFishMeat.PrimalItemConsumable_CuredFishMeat_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_CuredFishMeat.PrimalItemConsumable_CuredFishMeat_C'",
         "name": "Cured Fish Meat"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_CuredPrimeFishMeat.PrimalItemConsumable_CuredPrimeFishMeat_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_CuredPrimeFishMeat.PrimalItemConsumable_CuredPrimeFishMeat_C'",
         "name": "Cured Prime Fish Meat"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Azoweed.PrimalItemConsumable_Berry_Azoweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Azoweed.PrimalItemConsumable_Berry_Azoweed_C'",
         "name": "Azoweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Caeruleweed.PrimalItemConsumable_Berry_Caeruleweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Caeruleweed.PrimalItemConsumable_Berry_Caeruleweed_C'",
         "name": "Caeruleweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Celerweed.PrimalItemConsumable_Berry_Celerweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Celerweed.PrimalItemConsumable_Berry_Celerweed_C'",
         "name": "Celerweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Flavoweed.PrimalItemConsumable_Berry_Flavoweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Flavoweed.PrimalItemConsumable_Berry_Flavoweed_C'",
         "name": "Flavoweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Magnaweed.PrimalItemConsumable_Berry_Magnaweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Magnaweed.PrimalItemConsumable_Berry_Magnaweed_C'",
         "name": "Magnaweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Puraweed.PrimalItemConsumable_Berry_Puraweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Puraweed.PrimalItemConsumable_Berry_Puraweed_C'",
         "name": "Puraweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Somniweed.PrimalItemConsumable_Berry_Somniweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Somniweed.PrimalItemConsumable_Berry_Somniweed_C'",
         "name": "Somniweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Vinuweed.PrimalItemConsumable_Berry_Vinuweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Vinuweed.PrimalItemConsumable_Berry_Vinuweed_C'",
         "name": "Vinuweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Viriweed.PrimalItemConsumable_Berry_Viriweed_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Viriweed.PrimalItemConsumable_Berry_Viriweed_C'",
         "name": "Viriweed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Angelberry/PrimalItemConsumable_Seed_Angelberry.PrimalItemConsumable_Seed_Angelberry_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Angelberry/PrimalItemConsumable_Seed_Angelberry.PrimalItemConsumable_Seed_Angelberry_C'",
         "name": "Angelberry Seed "
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Crabnut/PrimalItemConsumable_Seed_Crabnut.PrimalItemConsumable_Seed_Crabnut_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Crabnut/PrimalItemConsumable_Seed_Crabnut.PrimalItemConsumable_Seed_Crabnut_C'",
         "name": "Crabnut Seed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Curlbean/PrimalItemConsumable_Seed_Curlbean.PrimalItemConsumable_Seed_Curlbean_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Curlbean/PrimalItemConsumable_Seed_Curlbean.PrimalItemConsumable_Seed_Curlbean_C'",
         "name": "Curlbean Seed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Spinefruit/PrimalItemConsumable_Seed_Spinefruit.PrimalItemConsumable_Seed_Spinefruit_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Spinefruit/PrimalItemConsumable_Seed_Spinefruit.PrimalItemConsumable_Seed_Spinefruit_C'",
         "name": "Spinefruit Seed"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Weapons/WeapHarpoonUrchin/PrimalItemAmmo_UrchinBolt.PrimalItemAmmo_UrchinBolt_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Weapons/WeapHarpoonUrchin/PrimalItemAmmo_UrchinBolt.PrimalItemAmmo_UrchinBolt_C'",
         "name": "Urchin Spike"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Weapons/WeapHarpoonTorpedo/PrimalItemAmmo_TorpedoBolt.PrimalItemAmmo_TorpedoBolt_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Weapons/WeapHarpoonTorpedo/PrimalItemAmmo_TorpedoBolt.PrimalItemAmmo_TorpedoBolt_C'",
         "name": "Torpedo Bolt"
     },
     {
-        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Weapons/WeapHarpoonShocking/PrimalItemAmmo_RefinedTranqSpearBolt.PrimalItemAmmo_RefinedTranqSpearBolt_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Weapons/WeapHarpoonShocking/PrimalItemAmmo_RefinedTranqSpearBolt.PrimalItemAmmo_RefinedTranqSpearBolt_C'",
         "name": "Shocking Trang Spear Bolt"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Taming.PrimalItemConsumable_CakeSlice_Taming'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Taming.PrimalItemConsumable_CakeSlice_Taming'",
         "name": "CakeSlice, Taming"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Breeding.PrimalItemConsumable_CakeSlice_Breeding'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Breeding.PrimalItemConsumable_CakeSlice_Breeding'",
         "name": "CakeSlice, Breeding"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Imprint.PrimalItemConsumable_CakeSlice_Imprint'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Imprint.PrimalItemConsumable_CakeSlice_Imprint'",
         "name": "CakeSlice, Imprint"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Experience.PrimalItemConsumable_CakeSlice_Experience'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Experience.PrimalItemConsumable_CakeSlice_Experience'",
         "name": "CakeSlice, Experience"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Harvest.PrimalItemConsumable_CakeSlice_Harvest'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/CakeSlices/PrimalItemConsumable_CakeSlice_Harvest.PrimalItemConsumable_CakeSlice_Harvest'",
         "name": "CakeSlice, Harvest"
     },
     {
-        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Crafted_AnniversaryCandy.PrimalItemConsumable_Crafted_AnniversaryCandy'"
-    },
-    {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Crafted_AnniversaryCandy.PrimalItemConsumable_Crafted_AnniversaryCandy'",
         "name": "Candy, Anniversary"
     },
     {
-        "bpPath": "Blueprint'/TAC-DETV-Dzungariotherium/Content/Dzungariotherium/PrimalItemResource_DzungHorn.PrimalItemResource_DzungHorn_C'"
-    },
-    {
+        "bpPath": "Blueprint'/TAC-DETV-Dzungariotherium/Content/Dzungariotherium/PrimalItemResource_DzungHorn.PrimalItemResource_DzungHorn_C'",
         "name": "Horn, Dzungariotherium"
     },
     {
-        "bpPath": "Blueprint'/Daemonis/Content/Daemonis/PrimalItem_SanguineElixir.PrimalItem_SanguineElixir_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Daemonis/Content/Daemonis/PrimalItem_SanguineElixir.PrimalItem_SanguineElixir_C'",
         "name": "Sanguine Elixir"
     },
     {
-        "bpPath": "Blueprint'/Daemonis/Content/Daemonis/Taming/Coagulated-Spread_Consumable.Coagulated-Spread_Consumable_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Daemonis/Content/Daemonis/Taming/Coagulated-Spread_Consumable.Coagulated-Spread_Consumable_C'",
         "name": "Coagulated Spread"
     },
     {
-        "bpPath": "Blueprint'/Daemonis/Content/Daemonis/Taming/PrimalItemConsumable_Kibble_Coagulated.PrimalItemConsumable_Kibble_Coagulated_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Daemonis/Content/Daemonis/Taming/PrimalItemConsumable_Kibble_Coagulated.PrimalItemConsumable_Kibble_Coagulated_C'",
         "name": "Coagulated Kibble"
     },
     {
-        "bpPath": "Blueprint'/Tyrannodominator/Content/Tyrannodominator/RocketLauncher/PrimalItem_Mini_Nuke.PrimalItem_Mini_Nuke_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Tyrannodominator/Content/Tyrannodominator/RocketLauncher/PrimalItem_Mini_Nuke.PrimalItem_Mini_Nuke_C'",
         "name": "Mini Nuke"
     },
     {
-        "bpPath": "Blueprint'/Tyrannodominator/Content/Tyrannodominator/RocketLauncher/PrimalItem_Gas_Rocket.PrimalItem_Gas_Rocket_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Tyrannodominator/Content/Tyrannodominator/RocketLauncher/PrimalItem_Gas_Rocket.PrimalItem_Gas_Rocket_C'",
         "name": "Gas Rocket"
     },
     {
-        "bpPath": "Blueprint'/Tyrannodominator/Content/Tyrannodominator/RocketLauncher/PrimalItem_Cannon-Rocket.PrimalItem_Cannon-Rocket_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Tyrannodominator/Content/Tyrannodominator/RocketLauncher/PrimalItem_Cannon-Rocket.PrimalItem_Cannon-Rocket_C'",
         "name": "Cannon Rocket"
     },
     {
-        "bpPath": "Blueprint'/CyrusRedPanda/Content/RedPanda/Items/PrimalItemArmor_PandaScarf.PrimalItemArmor_PandaScarf_C'"
-    },
-    {
+        "bpPath": "Blueprint'/CyrusRedPanda/Content/RedPanda/Items/PrimalItemArmor_PandaScarf.PrimalItemArmor_PandaScarf_C'",
         "name": "Red Panda Tail Scarf Skin"
     },
     {
-        "bpPath": "Blueprint'/CyrusRedPanda/Content/RedPanda/Items/PrimalItemConsumable_RedpandaPlatter.PrimalItemConsumable_RedpandaPlatter_C'"
-    },
-    {
+        "bpPath": "Blueprint'/CyrusRedPanda/Content/RedPanda/Items/PrimalItemConsumable_RedpandaPlatter.PrimalItemConsumable_RedpandaPlatter_C'",
         "name": "Primal Slop"
     },
     {
-        "bpPath": "Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_DeadlyVenom_M.PrimalItemConsumable_DeadlyVenom_M_C'"
-    },
-    {
+        "bpPath": "Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_DeadlyVenom_M.PrimalItemConsumable_DeadlyVenom_M_C'",
         "name": "Venom, Deadly"
     },
     {
-        "bpPath": "Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_PheromoneVenom_M.PrimalItemConsumable_PheromoneVenom_M_C'"
-    },
-    {
+        "bpPath": "Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_PheromoneVenom_M.PrimalItemConsumable_PheromoneVenom_M_C'",
         "name": "Venom, Pheromone"
     },
     {
-        "bpPath": "Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_TranqVenom_M.PrimalItemConsumable_TranqVenom_M_C'"
-    },
-    {
+        "bpPath": "Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_TranqVenom_M.PrimalItemConsumable_TranqVenom_M_C'",
         "name": "Venom, Tranq"
     },
     {
-        "bpPath": "Blueprint'/Moros_Gigantophis/Dinos/Guns/GattlingGun/Ammo/PrimalItemResource_GattlingAmmo.PrimalItemResource_GattlingAmmo_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Moros_Gigantophis/Dinos/Guns/GattlingGun/Ammo/PrimalItemResource_GattlingAmmo.PrimalItemResource_GattlingAmmo_C'",
         "name": "Ammo, Gattling"
     },
     {
-        "bpPath": "Blueprint'/Moros_Gigantophis/Dinos/Guns/PulseGun/Ammo/PrimalItemResource_PulseAmmo.PrimalItemResource_PulseAmmo_C'"
-    },
-    {
+        "bpPath": "Blueprint'/Moros_Gigantophis/Dinos/Guns/PulseGun/Ammo/PrimalItemResource_PulseAmmo.PrimalItemResource_PulseAmmo_C'",
         "name": "Ammo, Pulse"
     }
 ]
