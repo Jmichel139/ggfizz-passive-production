@@ -19,35 +19,28 @@
     <!-- Background -->
     <div class="full-bg"></div>
 
-    <!-- Navbar -->
-    <!-- <nav class="navbar">
-        <div class="navbar-inner">
-            <a class="navbar-logo" href="/">
-                <h1>GG Fizz</h1>
-            </a>
-            <button class="menu-toggle" aria-label="Menu">&#9776;</button>
-            <ul class="navbar-links">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Rules</a></li>
-                <li><a href="#">Discord</a></li>
-            </ul>
-        </div>
-    </nav> -->
 
     <div class="menu-wrapper">
         <img class="menu-left" src="img/menu/menu-left.png" alt="menu-left" />
         <div class="menu-repeat"></div>
         <img class="menu-right" src="img/menu/menu-right.png" alt="menu-right" />
     </div>
-
+    <div class="title-overlay">
+        <h2>GG Fizz ASA Passive Production</h2>
+    </div>
     <!-- Main Content -->
-    <main class="content-container">
+    <!-- Welcome Section (independent) -->
+    <section class="welcome-section">
         <div class="welcome-box">
             <h1>GG Fizz ASA Passive Production</h1>
             <p>Welcome to the GG Fizz ASA Passive Production page. Here you can find all the information you need about
-                our passive production system.</p>
+                our passive production system.</p><br>
             <p>Stay tuned for updates and more features coming soon!</p>
         </div>
+    </section>
+
+    <!-- JSON Display Section (independent) -->
+    <section class="json-section">
         <div class="json-display">
             <div class="dropdown-container">
                 <label for="creatureSelect">Select Creature:</label>
@@ -67,119 +60,15 @@
                 <!-- Results will display here -->
             </div>
         </div>
+    </section>
 
-    </main>
 
     <!-- Footer -->
     <footer class="site-footer">
         <p>&copy; 2025 CaotcAftermth. All rights reserved.</p>
     </footer>
 
-
-
-    <script>
-        const creatureSelect = document.getElementById("creatureSelect");
-        const resourceSelect = document.getElementById("resourceSelect");
-        const resultsBox = document.getElementById("results");
-
-        let creatureMap = new Map(); // { creatureName → [resourceNames] }
-        let resourceMap = new Map(); // { resourceName → [creatureNames] }
-
-        function extractNameFromBPPath(bpPath) {
-            if (!bpPath) return "Unknown";
-            const parts = bpPath.split('/');
-            const raw = parts[parts.length - 1].split('.')[0];
-            return raw
-                .replace(/(_Character_BP_C?|_Character)?$/i, '')
-                .replace(/^PrimalItem(Consumable|Resource|Ammo|Structure)?_?/i, '')
-                .replace(/_/g, ' ')
-                .trim();
-        }
-
-        function addToMap(map, key, value) {
-            if (!map.has(key)) {
-                map.set(key, new Set());
-            }
-            map.get(key).add(value);
-        }
-
-        fetch("data/creature-data.json")
-            .then(res => res.json())
-            .then(data => {
-                const creatures = Array.isArray(data) ? data : data.production;
-                creatures.forEach(entry => {
-                    const creatureName = extractNameFromBPPath(entry.dinoType);
-                    const allItems = [];
-
-                    entry.produces.forEach(prod => {
-                        prod.items.forEach(item => {
-                            if (item.bpPath) allItems.push(item.bpPath);
-                            if (Array.isArray(item.alternateItems)) {
-                                item.alternateItems.forEach(alt => {
-                                    if (alt.bpPath) allItems.push(alt.bpPath);
-                                });
-                            }
-                        });
-                    });
-
-                    const resourceNames = allItems.map(extractNameFromBPPath);
-                    creatureMap.set(creatureName, resourceNames);
-                    resourceNames.forEach(resource => {
-                        addToMap(resourceMap, resource, creatureName);
-                    });
-                });
-
-                // Populate Creature Dropdown
-                Array.from(creatureMap.keys()).sort().forEach(creature => {
-                    const opt = document.createElement("option");
-                    opt.value = creature;
-                    opt.textContent = creature;
-                    creatureSelect.appendChild(opt);
-                });
-
-                // Populate Resource Dropdown
-                Array.from(resourceMap.keys()).sort().forEach(resource => {
-                    const opt = document.createElement("option");
-                    opt.value = resource;
-                    opt.textContent = resource;
-                    resourceSelect.appendChild(opt);
-                });
-            })
-            .catch(err => {
-                console.error("Failed to load or parse JSON:", err);
-                resultsBox.innerHTML = `<p style="color: red;">Error loading data. Check console for details.</p>`;
-            });
-
-        creatureSelect.addEventListener("change", () => {
-            resourceSelect.value = "";
-            const creature = creatureSelect.value;
-            if (creature && creatureMap.has(creature)) {
-                const resources = Array.from(creatureMap.get(creature)).sort();
-                resultsBox.innerHTML = `
-      <strong>${creature}</strong> passively produces:
-      <ul>${resources.map(r => `<li>${r}</li>`).join('')}</ul>
-    `;
-            } else {
-                resultsBox.innerHTML = "";
-            }
-        });
-
-        resourceSelect.addEventListener("change", () => {
-            creatureSelect.value = "";
-            const resource = resourceSelect.value;
-            if (resource && resourceMap.has(resource)) {
-                const creatures = Array.from(resourceMap.get(resource)).sort();
-                resultsBox.innerHTML = `
-      <strong>${resource}</strong> is passively produced by:
-      <ul>${creatures.map(c => `<li>${c}</li>`).join('')}</ul>
-    `;
-            } else {
-                resultsBox.innerHTML = "";
-            }
-        });
-    </script>
-
-
+    <script src="script.js"></script>
 
 </body>
 

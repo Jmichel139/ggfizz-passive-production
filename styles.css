@@ -43,6 +43,7 @@ body {
     filter: blur(6px) brightness(80%);
     pointer-events: none;
     -webkit-mask-image: linear-gradient(to bottom, #fff 10%, transparent);
+    mask-image: linear-gradient(to bottom, #fff 10%, transparent);
 }
 
 /* Navbar */
@@ -85,7 +86,7 @@ body {
     color: var(--nav-hover);
 }
 
-/* Mobile Toggle (optional for later) */
+/* Mobile Toggle */
 .menu-toggle {
     display: none;
     font-size: 2rem;
@@ -97,7 +98,6 @@ body {
 @media (max-width: 768px) {
     .navbar-links {
         display: none;
-        /* For now; can add toggle logic later */
     }
 
     .menu-toggle {
@@ -105,17 +105,16 @@ body {
     }
 }
 
+/* Menu Images */
 .menu-wrapper {
     position: relative;
     width: 100vw;
     height: 6.9375rem;
-    /* 111px */
     z-index: 10;
     overflow: hidden;
     pointer-events: none;
 }
 
-/* Middle strip */
 .menu-repeat {
     position: absolute;
     top: 0;
@@ -129,7 +128,6 @@ body {
     z-index: 1;
 }
 
-/* Left and right */
 .menu-left,
 .menu-right {
     position: absolute;
@@ -152,7 +150,6 @@ body {
     right: 0;
 }
 
-/* Fade out side images below 1000px */
 @media (max-width: 1000px) {
 
     .menu-left,
@@ -161,15 +158,29 @@ body {
     }
 }
 
-/* Main Content Container */
-.content-container {
+/* Welcome Section & JSON Section (absolute layout) */
+.welcome-section,
+.json-section {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 4rem 1rem;
-    min-height: 60vh;
-    position: relative;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
     z-index: 5;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 1s ease;
+}
+
+.welcome-section.active,
+.json-section.active {
+    opacity: 1;
+    pointer-events: auto;
 }
 
 /* Welcome Box */
@@ -196,20 +207,8 @@ body {
     line-height: 1.6;
 }
 
-/* Footer */
-.site-footer {
-    background-color: #111;
-    color: #ccc;
-    text-align: center;
-    padding: 2rem 1rem;
-    font-size: 0.875rem;
-    border-top: 1px solid #333;
-    z-index: 3;
-    position: relative;
-}
-
+/* JSON Display Section */
 .json-display {
-    margin-top: 2rem;
     background-color: rgba(0, 0, 0, 0.5);
     padding: 2rem;
     border-radius: 1rem;
@@ -245,4 +244,27 @@ body {
     border-radius: 0.5rem;
     background-color: rgba(255, 255, 255, 0.05);
     color: var(--secondary-color);
+}
+
+/* Title Animation Overlay */
+.title-overlay {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 100%);
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    z-index: 9999;
+    opacity: 0;
+    pointer-events: none;
+    white-space: nowrap;
+    transition: opacity 1s ease, transform 1s ease;
+    line-height: 1;
+}
+
+.title-overlay.active {
+    opacity: 1;
+    transform: translate(-50%, -5%);
 }
