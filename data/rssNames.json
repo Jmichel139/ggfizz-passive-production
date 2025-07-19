@@ -1150,5 +1150,10 @@
     {
         "bpPath": "Blueprint'/Moros_Gigantophis/Dinos/Guns/PulseGun/Ammo/PrimalItemResource_PulseAmmo.PrimalItemResource_PulseAmmo_C'",
         "name": "Ammo, Pulse"
-    }
+    },
+{"bpPath": "Blueprint'/Game/ScorchedEarth/WeaponPlantSpeciesY/PrimalItemStructure_PlantSpeciesYTrap.PrimalItemStructure_PlantSpeciesYTrap'","name": "Plant Species Y Trap"},
+{"bpPath": "Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'","name": "Owl Pellet"},
+{"bpPath": "Blueprint'/PortsOfAtlas/Structures/MarineCropPlot/PlantSpeciesA/PrimalItemConsumable_Seed_PlantSpeciesA.PrimalItemConsumable_Seed_PlantSpeciesA'","name": "Plant Species A Seed"},
+{"bpPath": "Blueprint' /CyrusJumpingSpider/Content/Spider/Jumper/IridescentChitin/PrimalItemResource_ChitinIridescent.PrimalItemResource_ChitinIridescent'","name": "Iridescent Chitin"},
+{"bpPath": "Blueprint'/MorosLivyatan/Dinos_Livy/Livyatan/Resources/ApexDrops/PrimalItem_RawHide_Livyatan.PrimalItem_RawHide_Livyatan'","name": "Raw Hide, Livyatan"}
 ]
