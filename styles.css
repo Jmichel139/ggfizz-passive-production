@@ -161,10 +161,9 @@ body {
 /* Welcome Section & JSON Section (absolute layout) */
 .welcome-section,
 .json-section {
-    position: absolute;
+    position: relative;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -175,6 +174,15 @@ body {
     opacity: 0;
     pointer-events: none;
     transition: opacity 1s ease;
+    padding: 2rem;
+}
+
+.welcome-section {
+    transform: translate(-50%, 70%);
+}
+
+.json-section {
+    transform: translate(-50%, -30%);
 }
 
 .welcome-section.active,
@@ -267,4 +275,190 @@ body {
 .title-overlay.active {
     opacity: 1;
     transform: translate(-50%, -5%);
+}
+
+.result-flex {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.consumes-block {
+    min-width: 220px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    padding: 1rem;
+    border: 1px solid var(--primary-color);
+}
+
+.consumes-block ul {
+    margin: 0.25rem 0 0.5rem 0;
+    padding-left: 1.1em;
+}
+
+.consumes-info {
+    font-size: 0.95em;
+    color: var(--secondary-color);
+    margin-top: 0.5em;
+}
+
+.result-name {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.result-grid {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2.5rem;
+}
+
+.result-grid.center-alone {
+    justify-content: center;
+}
+
+.col {
+    flex: 1 1 420px;
+    min-width: 320px;
+    max-width: 650px;
+    /* Increased for wider multi-column lists */
+    background: rgba(0, 0, 0, 0.45);
+    border-radius: 10px;
+    padding: 1.25rem 1rem 1rem 1rem;
+    border: 1px solid var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.col-title {
+    display: block;
+    text-align: center;
+    font-size: 1.25em;
+    font-weight: bold;
+    color: var(--primary-color);
+    margin-bottom: 0.75rem;
+}
+
+.item-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    /* Increased min width */
+    gap: 0.2em 1.5em;
+    list-style-type: disc;
+    padding-left: 1.5em;
+    margin-bottom: 0;
+}
+
+.item-list li {
+    margin-bottom: 0.2em;
+    display: flex;
+    align-items: center;
+    gap: 0.6em;
+    position: relative;
+}
+
+/* Force bullet (disc) even with flex/grid */
+.item-list li {
+    list-style-type: disc !important;
+}
+
+/* For icons */
+.item-icon {
+    width: 22px;
+    height: 22px;
+    vertical-align: middle;
+    border-radius: 4px;
+    background: #22222200;
+}
+
+.result-grid {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.result-grid.center-alone {
+    justify-content: center;
+}
+
+/* Examples styling */
+.consume-examples {
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    width: 100%;
+}
+
+.single-example .examples-title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0.6em;
+}
+
+.multi-example .examples-title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0.6em;
+    font-weight: bold;
+}
+
+.consume-example-row {
+    display: flex;
+    align-items: center;
+    gap: 0.8em;
+    margin-bottom: 0.6em;
+    justify-content: center;
+}
+
+.icon-wrap {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.item-icon {
+    width: 28px;
+    height: 28px;
+    vertical-align: middle;
+    margin-right: 2px;
+}
+
+.icon-wrap sup {
+    font-size: 0.85em;
+    color: #fb9404;
+    margin-left: 2px;
+    position: absolute;
+    right: -10px;
+    top: 0;
+}
+
+.operator {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #fff8b0;
+    margin: 0 0.1em;
+    display: inline-block;
+    width: 1.2em;
+    text-align: center;
+}
+
+
+.multi-example .col-md-6 {
+    min-width: 180px;
+    /* ensures columns don't get too skinny on desktop */
+}
+
+.site-footer {
+    background: #111;
+    color: #ccc;
+    text-align: center;
+    padding: 2rem 1rem;
+    font-size: 0.875rem;
+    border-top: 1px solid #333;
+    z-index: 3;
+    position: relative;
 }
