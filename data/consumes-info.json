@@ -1,0 +1,386 @@
+[
+  {
+    "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+    "consumesItems": [
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'",
+        "name": "Sweet Vegetable Cake"
+      }
+    ],
+    "consumesData": [],
+    "display": [],
+    "examples": []
+  },
+  {
+    "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn'",
+    "consumesItems": [
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'",
+        "name": "Sweet Vegetable Cake"
+      }
+    ],
+    "consumesData": [
+      {
+        "info": "Being a special variant of the Equus, and a super picky eater, the Unicorn will only eat Sweet Vegetable Cakes. As a reward, you will have a chance to receive at random a special cake with a special buff. "
+      }
+    ],
+    "display": [
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'",
+        "name": "Sweet Vegetable Cake",
+        "icon": "img/resources/Sweet_Vegetable_Cake.png"
+      }
+    ],
+    "examples": [
+      [
+        {
+          "icon": "Sweet_Vegetable_Cake",
+          "sup": "1"
+        },
+        {
+          "equals": true
+        },
+        {
+          "icon": "CakeSlice",
+          "sup": "1"
+        }
+      ]
+    ]
+  },
+  {
+    "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'",
+    "consumesItems": [
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'",
+        "name": "Rare Flower"
+      }
+    ],
+    "consumesData": [
+      {
+        "info": "Feed the Queen Bee Rare Flowers to produce Honey. If not fed, production stops."
+      }
+    ],
+    "display": [
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'",
+        "name": "Rare Flower",
+        "icon": "img/resources/Rare_Flower.png"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'",
+    "consumesItems": [
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
+        "name": "Raw Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish'",
+        "name": "Raw Fish Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat'",
+        "name": "Raw Prime Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish'",
+        "name": "Raw Prime Fish Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
+        "name": "Raw Mutton"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'",
+        "name": "Metal"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal_C'",
+        "name": "Scrap Metal"
+      }
+    ],
+    "consumesData": [],
+    "display": [],
+    "examples": [
+      [
+        {
+          "icon": "Raw_Meat",
+          "sup": "1"
+        },
+        {
+          "equals": true
+        },
+        {
+          "icon": "Cooked_Meat",
+          "sup": "1"
+        }
+      ],
+      [
+        {
+          "icon": "Metal",
+          "sup": "4"
+        },
+        {
+          "equals": true
+        },
+        {
+          "icon": "Metal_Ingot",
+          "sup": "1"
+        }
+      ],
+      [
+        {
+          "icon": "Scrap_Metal",
+          "sup": "2"
+        },
+        {
+          "equals": true
+        },
+        {
+          "icon": "Scrap_Metal_Ingot",
+          "sup": "1"
+        }
+      ]
+    ]
+  },
+  {
+    "dinoType": "Blueprint'/ImprovedPhoenix/Dinos/ImprovedPhoenix_Character_BP.ImprovedPhoenix_Character_BP'",
+    "consumesItems": [
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
+        "name": "Raw Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish'",
+        "name": "Raw Fish Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat'",
+        "name": "Raw Prime Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish'",
+        "name": "Raw Prime Fish Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
+        "name": "Raw Mutton"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'",
+        "name": "Metal"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal_C'",
+        "name": "Scrap Metal"
+      }
+    ],
+    "consumesData": [],
+    "display": [],
+    "examples": []
+  },
+  {
+    "dinoType": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP'",
+    "consumesItems": [
+      {
+        "bpPath": "Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'",
+        "name": "Owl Pellet"
+      },
+      {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/WeaponPlantSpeciesY/PrimalItemStructure_PlantSpeciesYTrap.PrimalItemStructure_PlantSpeciesYTrap'",
+        "name": "Plant Species Y Trap"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_CorruptedWood.PrimalItemResource_CorruptedWood'",
+        "name": "Corrupted Wood"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers'",
+        "name": "Fiber"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint'",
+        "name": "Flint"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_FracturedGem.PrimalItemResource_FracturedGem'",
+        "name": "Fragmented Green Gem"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_FungalWood.PrimalItemResource_FungalWood'",
+        "name": "Fungal Wood"
+      },
+      {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt'",
+        "name": "Raw Salt"
+      },
+      {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand'",
+        "name": "Sand"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'",
+        "name": "Stone"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch'",
+        "name": "Thatch"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_BlueSap.PrimalItemResource_BlueSap_C'",
+        "name": "Blue Crystalized Sap"
+      },
+      {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay'",
+        "name": "Clay"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gas.PrimalItemResource_Gas'",
+        "name": "Congealed Gas Ball"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal'",
+        "name": "Crystal"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'",
+        "name": "Oil"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'",
+        "name": "Silica Pearls"
+      },
+      {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk'",
+        "name": "Silk"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'",
+        "name": "Black Pearl"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'",
+        "name": "Metal"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian'",
+        "name": "Obsidian"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'",
+        "name": "Organic Polymer"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_RedSap.PrimalItemResource_RedSap'",
+        "name": "Red Crystalized Sap"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'",
+        "name": "Sap"
+      },
+      {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sulfur.PrimalItemResource_Sulfur'",
+        "name": "Sulfur"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'",
+        "name": "Element Dust"
+      }
+    ],
+    "consumesData": [
+      {
+        "info": "Similar to the Gacha when not balled, the Gacha will consume its favorite food, Plant Species Y Trap's to produce items. To assign the item you wish to produce, simply place it in the terminal inventoy along with its favorite food. For a bonus, you may also add Owl Pellets to double the resource output. Note: The Gacha will can only be assigned items that it can produce!"
+      }
+    ],
+    "display": [
+      {
+        "bpPath": "Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'",
+        "name": "Owl Pellet",
+        "icon": "img/resources/Owl_Pellet.png"
+      },
+      {
+        "bpPath": "Blueprint'/Game/ScorchedEarth/WeaponPlantSpeciesY/PrimalItemStructure_PlantSpeciesYTrap.PrimalItemStructure_PlantSpeciesYTrap'",
+        "name": "Plant Species Y Trap",
+        "icon": "img/resources/Plant_Species_Y_Trap.png"
+      }
+    ],
+    "examples": [
+      [
+        {
+          "icon": "Plant_Species_Y_Trap",
+          "sup": "1"
+        },
+        {
+          "icon": "Metal",
+          "sup": "1"
+        },
+        {
+          "equals": true
+        },
+        {
+          "icon": "Metal",
+          "sup": "15"
+        }
+      ],
+      [
+        {
+          "icon": "Plant_Species_Y_Trap",
+          "sup": "1"
+        },
+        {
+          "icon": "Owl_Pellet",
+          "sup": "1"
+        },
+        {
+          "icon": "Metal",
+          "sup": "1"
+        },
+        {
+          "equals": true
+        },
+        {
+          "icon": "Metal",
+          "sup": "30"
+        }
+      ]
+    ]
+  },
+  {
+    "dinoType": "Blueprint'/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP'",
+    "consumesItems": [
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
+        "name": "Raw Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish'",
+        "name": "Raw Fish Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat'",
+        "name": "Raw Prime Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish'",
+        "name": "Raw Prime Fish Meat"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
+        "name": "Raw Mutton"
+      },
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'",
+        "name": "Metal"
+      },
+      {
+        "bpPath": "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal_C'",
+        "name": "Scrap Metal"
+      }
+    ],
+    "consumesData": [],
+    "display": [],
+    "examples": []
+  }
+]
