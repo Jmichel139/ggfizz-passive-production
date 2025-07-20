@@ -8,7 +8,13 @@
       }
     ],
     "consumesData": [],
-    "display": [],
+    "display": [ 
+      {
+        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'",
+        "name": "Sweet Vegetable Cake",
+        "icon": "img/resources/Sweet_Vegetable_Cake.png"
+      }
+    ],
     "examples": []
   },
   {
