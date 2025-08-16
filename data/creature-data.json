@@ -6,27 +6,20 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 120,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 20,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0,
               "alternateItems": [],
               "consumesSelectMode": 0,
               "consumesItemsChance": 0,
-              "consumesItems": [
-                {
-                  "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'",
-                  "quantityPerItem": 5,
-                  "maxQuantityPerCycle": 0,
-                  "maxQuantityInTerminal": 0
-                }
-              ]
+              "consumesItems": []
             }
           ]
         }
@@ -37,14 +30,14 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 120,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 20,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0,
               "alternateItems": [],
@@ -61,14 +54,14 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 120,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 20,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0,
               "alternateItems": [],
@@ -574,24 +567,29 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
+              "quantityPerDino": 10,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "consumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            },
+            {
+              "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
               "quantityPerDino": 30,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0,
-              "alternateItems": [
-                {
-                  "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
-                  "quantityPerItem": 30,
-                  "maxQuantityPerCycle": 0,
-                  "maxQuantityInTerminal": 0
-                }
-              ],
+              "alternateItems": [],
               "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
@@ -605,24 +603,29 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
+              "quantityPerDino": 10,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "consumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            },
+            {
+              "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
               "quantityPerDino": 30,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0,
-              "alternateItems": [
-                {
-                  "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat'",
-                  "quantityPerItem": 30,
-                  "maxQuantityPerCycle": 0,
-                  "maxQuantityInTerminal": 0
-                }
-              ],
+              "alternateItems": [],
               "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
@@ -813,11 +816,17 @@
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 30,
               "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
+              "alternateItemsChance": 0.5,
               "alternateItems": [
                 {
                   "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay'",
                   "quantityPerItem": 30,
+                  "maxQuantityPerCycle": 0,
+                  "maxQuantityInTerminal": 0
+                },
+                {
+                  "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Kelp.PrimalItemConsumable_Kelp_C'",
+                  "quantityPerItem": 10,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 }
@@ -1036,7 +1045,7 @@
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 20,
               "alternateSelectMode": 0,
-              "alternateItemsChance": 0.5,
+              "alternateItemsChance": 0.25,
               "alternateItems": [
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'",
@@ -1093,7 +1102,7 @@
     },
     {
       "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP.Coel_Character_BP'",
-      "chanceToProduce": 1,
+      "chanceToProduce": 0.25,
       "produces": [
         {
           "intervalSeconds": 86400,
@@ -1136,7 +1145,7 @@
     },
     {
       "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_Aberrant.Coel_Character_BP_Aberrant'",
-      "chanceToProduce": 1,
+      "chanceToProduce": 0.25,
       "produces": [
         {
           "intervalSeconds": 86400,
@@ -1179,7 +1188,7 @@
     },
     {
       "dinoType": "Blueprint'/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Coel/ARKOLOGY_Coel_Character_BP.ARKOLOGY_Coel_Character_BP_C'",
-      "chanceToProduce": 1,
+      "chanceToProduce": 0.25,
       "produces": [
         {
           "intervalSeconds": 86400,
@@ -2087,7 +2096,7 @@
       ]
     },
     {
-      "dinoType": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Eocarcharia_TA_Chartacter_BP_C.Eocarcharia_TA_Chartacter_BP_C'",
+      "dinoType": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Eocarcharia_TA_Chartacter_BP_C.Eocarcharia_TA_Chartacter_BP_C_C'",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -2268,17 +2277,17 @@
     },
     {
       "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn'",
-      "chanceToProduce": 1,
+      "chanceToProduce": 0.24,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Test.PrimalItemConsumable_Seed_Test'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 5,
+              "quantityPerDino": 1,
               "alternateSelectMode": 1,
               "alternateItemsChance": 1,
               "alternateItems": [
@@ -2314,11 +2323,11 @@
                 }
               ],
               "consumesSelectMode": 0,
-              "consumesItemsChance": 0,
+              "consumesItemsChance": 1,
               "consumesItems": [
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'",
-                  "quantityPerItem": 5,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 }
@@ -2649,7 +2658,7 @@
                 }
               ],
               "consumesSelectMode": 0,
-              "consumesItemsChance": 0,
+              "consumesItemsChance": 1,
               "consumesItems": [
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'",
@@ -2713,7 +2722,7 @@
     },
     {
       "dinoType": "Blueprint'/PortsOfAtlas/Creatures/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP_C'",
-      "chanceToProduce": 1,
+      "chanceToProduce": 0.5,
       "produces": [
         {
           "intervalSeconds": 3600,
@@ -3430,14 +3439,14 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 30,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.01,
               "alternateItems": [
@@ -3461,14 +3470,14 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 30,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.01,
               "alternateItems": [
@@ -3492,14 +3501,14 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 30,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.01,
               "alternateItems": [
@@ -4173,32 +4182,32 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 864,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Rockarrot.PrimalItemConsumable_Seed_Rockarrot'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 100,
+              "quantityPerDino": 1,
               "alternateSelectMode": 1,
-              "alternateItemsChance": 0.95,
+              "alternateItemsChance": 0.8,
               "alternateItems": [
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry.PrimalItemConsumable_Seed_Amarberry'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry.PrimalItemConsumable_Seed_Azulberry'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry.PrimalItemConsumable_Seed_Mejoberry'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
@@ -4217,25 +4226,25 @@
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Longrass.PrimalItemConsumable_Seed_Longrass'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 100,
+              "quantityPerDino": 1,
               "alternateSelectMode": 1,
-              "alternateItemsChance": 0.95,
+              "alternateItemsChance": 0.8,
               "alternateItems": [
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Citronal.PrimalItemConsumable_Seed_Citronal'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Longrass.PrimalItemConsumable_Seed_Longrass'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
                 {
                   "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Rockarrot.PrimalItemConsumable_Seed_Rockarrot'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
@@ -4254,25 +4263,25 @@
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Citronal.PrimalItemConsumable_Seed_Citronal'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 100,
+              "quantityPerDino": 1,
               "alternateSelectMode": 1,
-              "alternateItemsChance": 0.95,
+              "alternateItemsChance": 0.8,
               "alternateItems": [
                 {
                   "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Angelberry/PrimalItemConsumable_Seed_Angelberry.PrimalItemConsumable_Seed_Angelberry_C'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
                 {
                   "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Crabnut/PrimalItemConsumable_Seed_Crabnut.PrimalItemConsumable_Seed_Crabnut_C'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
                 {
                   "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/Crops/Fruits/Curlbean/PrimalItemConsumable_Seed_Curlbean.PrimalItemConsumable_Seed_Curlbean_C'",
-                  "quantityPerItem": 100,
+                  "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
                 },
@@ -4291,7 +4300,7 @@
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Citronal.PrimalItemConsumable_Seed_Citronal'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 100,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0,
               "alternateItems": [],
@@ -4303,7 +4312,7 @@
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry.PrimalItemConsumable_Seed_Stimberry'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 100,
+              "quantityPerDino": 1,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0,
               "alternateItems": [],
@@ -5713,14 +5722,14 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 30,
+              "quantityPerDino": 5,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.01,
               "alternateItems": [
@@ -5744,14 +5753,14 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 30,
+              "quantityPerDino": 5,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.01,
               "alternateItems": [
@@ -5775,14 +5784,14 @@
       "chanceToProduce": 1,
       "produces": [
         {
-          "intervalSeconds": 86400,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
               "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
-              "quantityPerDino": 30,
+              "quantityPerDino": 5,
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.01,
               "alternateItems": [
