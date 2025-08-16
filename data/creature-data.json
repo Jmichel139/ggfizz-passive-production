@@ -1270,18 +1270,6 @@
               "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
-            {
-              "bpPath": "Blueprint'/Daemonis/Content/Daemonis/PrimalItem_SanguineElixir.PrimalItem_SanguineElixir_C'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "consumesSelectMode": 0,
-              "consumesItemsChance": 0,
-              "consumesItems": []
             }
           ]
         }
@@ -1310,18 +1298,6 @@
                   "maxQuantityInTerminal": 0
                 }
               ],
-              "consumesSelectMode": 0,
-              "consumesItemsChance": 0,
-              "consumesItems": []
-            },
-            {
-              "bpPath": "Blueprint'/Daemonis/Content/Daemonis/PrimalItem_SanguineElixir.PrimalItem_SanguineElixir_C'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
               "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
@@ -1356,18 +1332,6 @@
               "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
-            {
-              "bpPath": "Blueprint'/Daemonis/Content/Daemonis/PrimalItem_SanguineElixir.PrimalItem_SanguineElixir_C'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "consumesSelectMode": 0,
-              "consumesItemsChance": 0,
-              "consumesItems": []
             }
           ]
         }
@@ -1399,18 +1363,6 @@
               "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
-            {
-              "bpPath": "Blueprint'/Daemonis/Content/Daemonis/PrimalItem_SanguineElixir.PrimalItem_SanguineElixir_C'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "consumesSelectMode": 0,
-              "consumesItemsChance": 0,
-              "consumesItems": []
             }
           ]
         }
@@ -1439,18 +1391,6 @@
                   "maxQuantityInTerminal": 0
                 }
               ],
-              "consumesSelectMode": 0,
-              "consumesItemsChance": 0,
-              "consumesItems": []
-            },
-            {
-              "bpPath": "Blueprint'/Daemonis/Content/Daemonis/PrimalItem_SanguineElixir.PrimalItem_SanguineElixir_C'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
               "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
@@ -8879,6 +8819,78 @@
                   "maxQuantityInTerminal": 0
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP'",
+      "chanceToProduce": 1,
+      "produces": [
+        {
+          "intervalSeconds": 86400,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Vinuweed.PrimalItemConsumable_Berry_Vinuweed_C'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 30,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "consumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP_Aberrant.Diplocaulus_Character_BP_Aberrant'",
+      "chanceToProduce": 1,
+      "produces": [
+        {
+          "intervalSeconds": 86400,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Vinuweed.PrimalItemConsumable_Berry_Vinuweed_C'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 30,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "consumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Diplocaulus/ARKOLOGY_Diplocaulus_Character_BP.ARKOLOGY_Diplocaulus_Character_BP_C'",
+      "chanceToProduce": 1,
+      "produces": [
+        {
+          "intervalSeconds": 86400,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Berry_Vinuweed.PrimalItemConsumable_Berry_Vinuweed_C'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 30,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "consumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
             }
           ]
         }
