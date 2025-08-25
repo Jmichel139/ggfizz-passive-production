@@ -1448,5 +1448,20 @@
     "bpPath": "Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'",
     "name": "Owl Pellet",
     "icon": "img/resources/Owl_Pellet.png"
-  }
+  },
+    {
+        "bpPath": "Blueprint'/PortsOfAtlas/Structures/MarineCropPlot/PlantSpeciesA/PrimalItemConsumable_Seed_PlantSpeciesA.PrimalItemConsumable_Seed_PlantSpeciesA'",
+        "name": "Plant Species A Seed",
+        "icon": "img/resources/Plant_Species_A_Seed.png"
+    },
+    {
+        "bpPath": "Blueprint' /CyrusJumpingSpider/Content/Spider/Jumper/IridescentChitin/PrimalItemResource_ChitinIridescent.PrimalItemResource_ChitinIridescent'",
+        "name": "Iridescent Chitin",
+        "icon": "img/resources/Iridescent_Chitin.png"
+    },
+    {
+        "bpPath": "Blueprint'/MorosLivyatan/Dinos_Livy/Livyatan/Resources/ApexDrops/PrimalItem_RawHide_Livyatan.PrimalItem_RawHide_Livyatan'",
+        "name": "Raw Hide, Livyatan",
+        "icon": "img/resources/Livyatan_Raw_Hide.png"
+    }
 ]
