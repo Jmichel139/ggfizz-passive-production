@@ -1132,7 +1132,7 @@
         "name": "Galvarex"
     },
     {
-        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Eocarcharia_TA_Chartacter_BP_C.Eocarcharia_TA_Chartacter_BP_C'",
+        "bpPath": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Eocarcharia_TA_Chartacter_BP_C.Eocarcharia_TA_Chartacter_BP_C_C'",
         "name": "Eocarcharia"
     },
     {
@@ -2191,4 +2191,5 @@
         "bpPath": "Blueprint'/TheSunkenWorldAdditions/Assets/Creatures/Steth/StethTSW_Character_BP.StethTSW_Character_BP_C'",
         "name": "Stethacanthus"
     }
+
 ]
